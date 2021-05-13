@@ -11,7 +11,7 @@
 
 ## Getting started
 
-Create database with name 'crud_by_phalcon' and execute file .sql for create table and dummy data.
+import database with name 'crud_pasien' and execute file table and dummy data.
 
 ## Run 
 
