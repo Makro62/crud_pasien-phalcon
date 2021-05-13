@@ -17,6 +17,3 @@ Create database with name 'crud_by_phalcon' and execute file .sql for create tab
 
 (http://localhost/crud_by_phalcon/)
 
-# crud_pasien-phalcon
-# crud_pasien-phalcon
-# crud_pasien-phalcon
